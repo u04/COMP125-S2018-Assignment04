@@ -14,5 +14,7 @@
     "morgan": "~1.9.0"
   },
   "main": "app.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/u04/COMP125-S2018-Assignment04.git",
+  "author": "u04"
 }
