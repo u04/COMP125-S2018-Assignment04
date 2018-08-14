@@ -13,6 +13,10 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0"
   },
+  "engines": {
+    "node": "10.8.0",
+    "npm": "6.2.0"
+  },
   "main": "server.js",
   "license": "MIT",
   "repository": "https://github.com/u04/COMP125-S2018-Assignment04.git",
