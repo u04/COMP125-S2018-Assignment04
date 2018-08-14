@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('./app');
 var debug = require('debug')('comp125-s2018-assignment04:server');
 var http = require('http');
 

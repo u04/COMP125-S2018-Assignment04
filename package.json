@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node server.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
@@ -13,7 +13,7 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0"
   },
-  "main": "app.js",
+  "main": "server.js",
   "license": "MIT",
   "repository": "https://github.com/u04/COMP125-S2018-Assignment04.git",
   "author": "u04"
